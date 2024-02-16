@@ -2,4 +2,4 @@
 # ~/.bash_profile
 #
 
-[[ -f ~/.bashrc ]] && . ~/.bashrc
+# powershell? bash or zsh? idk
